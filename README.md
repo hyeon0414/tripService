@@ -13,7 +13,7 @@
 - **Redis** - 인메모리 캐시 (채팅, 세션, 실시간 데이터)
 - **Elasticsearch** - 검색 엔진
 
-### Frontend (Next.js)
+### Frontend
 - **React** - UI 라이브러리
 - **Next.js** - React 프레임워크
 - **TypeScript** - 타입 안전성
