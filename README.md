@@ -10,8 +10,8 @@
 
 ### DB
 - **PostgreSQL** - 관계형 데이터베이스
-- - **Redis** - 인메모리 캐시 (채팅, 세션, 실시간 데이터)
-- - **Elasticsearch** - 검색 엔진
+- **Redis** - 인메모리 캐시 (채팅, 세션, 실시간 데이터)
+- **Elasticsearch** - 검색 엔진
 
 ### Frontend (Next.js)
 - **React** - UI 라이브러리
