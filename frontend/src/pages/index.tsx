@@ -1,10 +1,10 @@
 import React from "react";
-import styles from "./index.module.css";
+import styles from "../styles/index.module.css";
 
 // Props 타입 정의 (현재 사용 안 하고 있음)
 type Props = {};
 
-const MainPage: React.FC<Props> = () => {
+const index: React.FC<Props> = () => {
 	return (
 		<div className={styles.contain}>
 			<div className={styles["scroll-view"]}>
@@ -105,4 +105,4 @@ const MainPage: React.FC<Props> = () => {
 	);
 };
 
-export default MainPage;
+export default index;
